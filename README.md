@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @IamSinha27
-<!-- - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 IamSinha27/IamSinha27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +9,11 @@ You can click the Preview link to take a look at your changes.
 ### Hi there 👋, My name is Shubham Sinha
 #### Frontend Web Developer | Aspiring Entrepreneur
 I am a Second year Electronics and Computer engineering student who is enthusiastic about creating cool projects . Currently doing React JS , I always look forward to expand my tech stack in order to make better projects.
+
+-Currently making web apps using React JS
+-Looking Forward to contribute towards Open Source
+- Open to collaborating for Web Dev projects
+- Always excited for learning new skills and tech stacks to create better projects
 
 Skills: REACT / JS / HTML / CSS/ C++
 
