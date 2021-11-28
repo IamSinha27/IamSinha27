@@ -8,8 +8,12 @@ I am a Second year Electronics and Computer engineering student who is enthusias
 - 🤔 I’m looking for help with React JS 
 - 📫 How to reach me: Ping me at: shubhu123rashmi@gmail.com 
 
-
-Skills: REACT / JS / HTML / CSS/ C++
+## Skills
+- ⚛ React
+- HTML
+- CSS 
+- JS
+- C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IamSinha27)  
 
