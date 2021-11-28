@@ -2,10 +2,12 @@
 #### Frontend Web Developer | Aspiring Entrepreneur
 I am a Second year Electronics and Computer engineering student who is enthusiastic about creating cool projects . Currently doing React JS , I always look forward to expand my tech stack in order to make better projects.
 
--Currently making web apps using React JS
--Looking Forward to contribute towards Open Source
-- Open to collaborating for Web Dev projects
-- Always excited for learning new skills and tech stacks to create better projects
+## More About Me
+- 🔭 I’m currently working on Web App Projects 
+- 👯 I’m looking to collaborate on Web Development 
+- 🤔 I’m looking for help with React JS 
+- 📫 How to reach me: Ping me at: shubhu123rashmi@gmail.com 
+
 
 Skills: REACT / JS / HTML / CSS/ C++
 
