@@ -7,7 +7,7 @@ I am a Fourth year Electronics and Computer engineering student who is enthusias
 - 🔭 I’m currently working on Web App Projects 
 - 👯 I’m looking to collaborate on Web Development 
 - 🤔 I’m looking for help with React JS 
-- 📫 How to reach me: Ping me at: shubhu123rashmi@gmail.com 
+- 📫 How to reach me: Ping me at: shubham.sinha1512@gmail.com 
 
 ## Skills
 - ⚛ React
