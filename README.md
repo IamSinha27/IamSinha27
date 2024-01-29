@@ -1,5 +1,4 @@
 ### Hi there 👋, My name is Shubham Sinha
-#### Frontend Web Developer | Aspiring Entrepreneur
 I am a Fourth year Electronics and Computer engineering student who is enthusiastic about creating cool projects . Currently doing React JS , I always look forward to expand my tech stack in order to make better projects.
 
 
